@@ -1,0 +1,158 @@
+/*----------introduction----------*/
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: ;
+    font-family: 'Poppins', sans-serif;
+    color: #575757;
+}
+.page-title{
+    color: orange;
+    font-family: 'Dancing Script', cursive;
+    font-size: 8em;
+    text-align: center;
+    margin: 2% 0%;
+}
+.bgImage-title{
+    background-image: url();
+}
+.page-subtitle{
+    font-size: 16px;
+    text-align: center;
+    border-bottom: 1px grey;
+    margin-top: -1%;
+    color: #939191;
+}
+
+/*----------inspiration----------*/
+
+.half-width h1{
+    font-size: 4em;
+}
+.half-width h1,span{
+    line-height: 75%;
+}
+.orange-span{
+    color: orange;
+    font-size: 150%;
+}
+.mini-text{
+    font-size: 18px;
+    font-weight: 200;
+    width: 80%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 80%;
+    margin-top: 20px;
+    margin-left: 5%;
+    padding-right: 2%;
+}
+.link-button{
+    text-decoration: none;
+    background: linear-gradient(30deg, rgb(255, 94, 0), rgb(255, 206, 71));
+    padding: 10px 25px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 700;
+    box-shadow: -1px 2px 9px 0px grey;
+}
+.background-layer{
+    background-image: url(images/shapes/background-mine.jpg);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: bottom;
+}
+.top-background{
+    background-image: url(images/shapes/top-background.png);
+    background-repeat: no-repeat;
+}
+
+/*----------About Us----------*/
+
+.woman-in-frame{
+    width: 56%;
+    margin-top: -10%;
+}
+.about-us-bg{
+    background-image:url(images/shapes/Frame\ 56.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.bottom-right-imge{
+    height: 75%;
+    margin-left: -6%;
+    margin-top: 24%;
+}
+
+/*----------About Us----------*/
+.recipes{
+    text-align: center;
+}
+.flexible-container-2{
+    display: flex;
+    margin-bottom: 50px;
+}
+.half-width-2{
+    width: 33%;
+    height: 92%;
+    margin-top: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 2% 4%;
+    border-radius: 2em;
+    box-shadow: 0px -1px 10px 1px grey;
+}
+.recipe-image{
+    height: 60%;
+    width: 105%;
+    text-align: center;
+    margin-left: -2%;
+}
+
+/*----------Review----------*/
+
+.center-name{
+    text-align: center;
+}
+
+
+/*----------Popularity----------*/
+
+.flexible-container-3{
+    display: flex;
+    margin: 0 auto;
+    background-image: url(images/shapes/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: left;
+    background-position-y: top;
+}
+.half-width-3{
+    height: 45%;
+    width: 75%;
+    border-radius: 2em;
+    box-shadow: 0px -1px 4px 1px #808080cc;
+    margin: 1% 13%;    
+    margin-top: 20em;
+}
+.inline-popularity{
+    display: inline-block;
+    margin: 3% 11%;
+}
+
+/*----------Footer----------*/
+.footer{
+    text-align: center;
+    background-color: rgb(0 0 26);
+    padding: 3% 3%;
+    color: white;
+    font-weight: 300;
+}
