@@ -119,10 +119,31 @@ section{
 }
 
 /*----------Review----------*/
-
-.center-name{
+.dada{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-bottom: -10%;
+}
+.bap-heading{
     text-align: center;
 }
+.cousin{
+    width: 33.33%;
+    background: rgb(80, 224, 92);
+    display: inline-block;
+    text-align: center;
+}
+.div-1{
+    float: left;
+}
+.div-2{
+    margin: 0 auto;
+}
+.div-3{
+    float: right;
+}
+
 
 
 /*----------Popularity----------*/
@@ -133,7 +154,7 @@ section{
     background-image: url(images/shapes/exp-bg.png);
     background-repeat: no-repeat;
     background-position-x: left;
-    background-position-y: top;
+    background-position-y: bottom;
 }
 .half-width-3{
     height: 45%;
